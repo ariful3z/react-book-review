@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "image_url": "https://i.ibb.co/Tq7F91Q/Group-28.png",
+      "keywords": ["Young Adult ", " Identity"],
+      "book_title": "The Catcher in the Rye",
+      "author_name": "By : Awlad Hossain",
+      "book_type": "Fiction",
+      "book_details": "Add detail here Add detail here Add detail here Add detail here Add detail hereAdd detail here ",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "image_url": "https://example.com/image2.jpg",
+      "keywords": ["fiction", "drama", "romance"],
+      "book_title": "Pride and Prejudice",
+      "author_name": "Jane Austen",
+      "book_type": "classic",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "image_url": "https://example.com/image3.jpg",
+      "keywords": ["fiction", "fantasy", "adventure"],
+      "book_title": "Harry Potter and the Philosopher's Stone",
+      "author_name": "J.K. Rowling",
+      "book_type": "fantasy",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "image_url": "https://example.com/image4.jpg",
+      "keywords": ["fiction", "science fiction"],
+      "book_title": "Dune",
+      "author_name": "Frank Herbert",
+      "book_type": "science fiction",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "image_url": "https://example.com/image5.jpg",
+      "keywords": ["fiction", "dystopian"],
+      "book_title": "1984",
+      "author_name": "George Orwell",
+      "book_type": "classic",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "image_url": "https://example.com/image6.jpg",
+      "keywords": ["fiction", "satire"],
+      "book_title": "Catch-22",
+      "author_name": "Joseph Heller",
+      "book_type": "satire",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "image_url": "https://example.com/image7.jpg",
+      "keywords": ["fiction", "historical fiction"],
+      "book_title": "The Book Thief",
+      "author_name": "Markus Zusak",
+      "book_type": "historical fiction",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "image_url": "https://example.com/image8.jpg",
+      "keywords": ["fiction", "romance"],
+      "book_title": "The Notebook",
+      "author_name": "Nicholas Sparks",
+      "book_type": "romance",
+      "book_details": "Add detail here",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "image_url": "https://example.com/image9.jpg",
+      "keywords": ["fiction", "horror"],
+      "book_title": "Dracula",
+      "author_name": "Bram Stoker",
+      "book_type": "horror",
+      "book_details": "Add detail here",
+      "rating": 5
+    }
+  ]
+  
